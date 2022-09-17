@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    padding: 0px;
+    margin: 0px;
+}
+.banner{
+    background-image: url(./marvel-bg.jpeg);
+    background-size: cover;
+    height:450px ;
+    background-position: center;
+    background-repeat: no-repeat;   
+}
+
+.card{
+    background-color:gray;
+    border-radius: 15px;
+    border: 10px white double;
+    text-align: center;
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    height: 200px;
+       
+}
